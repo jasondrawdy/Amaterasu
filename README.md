@@ -439,7 +439,7 @@ namespace Example
 
 # License
 
-Copyright © ∞ Jason Drawdy (CloneMerge)
+Copyright © ∞ Jason Drawdy 
 
 All rights reserved.
 
